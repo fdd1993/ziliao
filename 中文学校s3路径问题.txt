@@ -1,0 +1,8 @@
+ 部署到中国亚马逊路径：AuthenticationServer类中   2554行：URLConnection uc = new URL("https://s3.cn-north-1.amazonaws.com.cn/hxgny-yuli/config/class-conf.json").openConnection();
+
+  2783行：URLConnection uc = new URL("https://s3.cn-north-1.amazonaws.com.cn/hxgny-yuli/config/class-conf.json").openConnection();
+
+
+ 部署到美国亚马逊路径：AuthenticationServer类中   2555行：URLConnection uc = new URL("https://s3.amazonaws.com/hxgny-yuli/config/class-conf.json").openConnection();
+
+  2784行：URLConnection uc = new URL("https://s3.amazonaws.com/hxgny-yuli/config/class-conf.json").openConnection();
